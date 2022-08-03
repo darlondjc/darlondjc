@@ -8,7 +8,7 @@
 - Currently working with Angular and Java 
 - Currently learning React JS
 
-## 🚀💻 Technologies & Tools
+### 🚀💻 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
